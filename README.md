@@ -41,10 +41,12 @@ Provide step-by-step instructions on how to install and set up your project.
 ## Implementation
 https://github.com/DidulaThavisha/GN13Robot_design_and_Competition/assets/86177477/d3ca39ae-9cdf-4565-b30b-02bd37a1961b
 
+https://github.com/DidulaThavisha/GN13Robot_design_and_Competition/assets/86177477/11cbbf46-4349-418e-98d4-f84cfa6e2ac3
 
 
 
-Explain how to use your project. Provide code examples and usage scenarios.
+
+Unfortunatetlty we couldn't have footages on the final implementation of achieving the tasks
 
 ## Contributing
 
