@@ -39,6 +39,7 @@ So our goal is to empower the robot with these skills efficiently, accurately an
 Provide step-by-step instructions on how to install and set up your project.
 
 ## Usage
+![Simulation](robot_design_1.mp4)
 
 Explain how to use your project. Provide code examples and usage scenarios.
 
