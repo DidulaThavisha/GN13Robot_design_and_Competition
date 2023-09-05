@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Implementation](#implementation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,7 +38,7 @@ So our goal is to empower the robot with these skills efficiently, accurately an
 
 Provide step-by-step instructions on how to install and set up your project.
 
-## Usage
+## Implementation
 https://github.com/DidulaThavisha/GN13Robot_design_and_Competition/assets/86177477/d3ca39ae-9cdf-4565-b30b-02bd37a1961b
 
 
