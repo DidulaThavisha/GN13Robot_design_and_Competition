@@ -63,11 +63,11 @@ Explain how others can contribute to your project, including information about i
 
 
 ## Team
-This project was done by a group of 5 Undergraduates of University of Moratuwa. Details of the team members can be found below.
--[Didula Samaraweera](https://github.com/DidulaThavisha)  
--[Moshintha Isuru](https://github.com/Moshintha20)  
--[Kavindu Shehan](https://github.com/ShehanHMK)  
--[Sasini Wanigathunga](https://github.com/SasiniWanigathunga)  
--[Dusara Gamindu](https://github.com/DusaraG)  
+This project was done by a group of 5 Undergraduates of University of Moratuwa. Details of the team members can be found below.  
+- [Didula Samaraweera](https://github.com/DidulaThavisha)  
+- [Moshintha Isuru](https://github.com/Moshintha20)  
+- [Kavindu Shehan](https://github.com/ShehanHMK)  
+- [Sasini Wanigathunga](https://github.com/SasiniWanigathunga)  
+- [Dusara Gamindu](https://github.com/DusaraG)  
 
 
