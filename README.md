@@ -69,5 +69,6 @@ This project was done by a group of 5 Undergraduates of University of Moratuwa. 
 - [Kavindu Shehan](https://github.com/ShehanHMK)  
 - [Sasini Wanigathunga](https://github.com/SasiniWanigathunga)  
 - [Dusara Gamindu](https://github.com/DusaraG)  
+![team](https://github.com/DidulaThavisha/GN13Robot_design_and_Competition/assets/86177477/67ee578b-cb38-49a2-a5ce-1131b4b7dfaa)
 
 
