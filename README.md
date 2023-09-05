@@ -9,8 +9,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Proposal](#proposal)
-- [Implementation](#implementation)
-- [Contributing](#contributing)
+- [Implementation](#implementation)  
 - [Learning Outcomes](#learning_outcomes)
 - [Team](#team)
 
@@ -49,9 +48,7 @@ https://github.com/DidulaThavisha/GN13Robot_design_and_Competition/assets/861774
 
 Unfortunatetlty we couldn't have footages on the final implementation of achieving the tasks
 
-## Contributing
 
-Explain how others can contribute to your project, including information about issues, pull requests, and coding guidelines.
 
 ## Learning_Outcomes
 
