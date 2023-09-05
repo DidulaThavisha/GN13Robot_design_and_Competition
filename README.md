@@ -11,7 +11,7 @@
 - [Proposal](#proposal)
 - [Implementation](#implementation)
 - [Contributing](#contributing)
-- [Learning Outcomes](#learningoutcomes)
+- [Learning Outcomes](#learning_outcomes)
 
 ## Introduction
 • We designed a Physical mobile robot which has the ability to perform simple tasks such as line following wall following to Advanced task such as line maze solving  
@@ -52,7 +52,7 @@ Unfortunatetlty we couldn't have footages on the final implementation of achievi
 
 Explain how others can contribute to your project, including information about issues, pull requests, and coding guidelines.
 
-## Learning Outcomes
+## Learning_Outcomes
 
 State the license under which your project is distributed.
 
