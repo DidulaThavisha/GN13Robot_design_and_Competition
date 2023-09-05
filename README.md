@@ -8,7 +8,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+- [Proposal](#proposal)
 - [Implementation](#implementation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -34,7 +34,7 @@ III. Proper path selection
 
 So our goal is to empower the robot with these skills efficiently, accurately and precisely in order to complete without failures. 
 
-## Installation
+## Proposal 
 
 Provide step-by-step instructions on how to install and set up your project.
 
