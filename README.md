@@ -12,6 +12,7 @@
 - [Implementation](#implementation)
 - [Contributing](#contributing)
 - [Learning Outcomes](#learning_outcomes)
+- [Team](#team)
 
 ## Introduction
 • We designed a Physical mobile robot which has the ability to perform simple tasks such as line following wall following to Advanced task such as line maze solving  
@@ -54,9 +55,15 @@ Explain how others can contribute to your project, including information about i
 
 ## Learning_Outcomes
 
-State the license under which your project is distributed.
+- Identify the composition of a basic robot system and explain the functionality of each component.
+- Select suitable sensors, actuators, mechanisms, and a power source for a simple robot design to perform a given task.
+- Design and build a small robot and its control system for the required functionality.
+- Tune, test and troubleshoot the robot to achieve best performance.
+- Demonstrate teamwork and collaborative efforts to achieve a common goal and complete a task in the given time frame.  
 
-## Acknowledgments
 
-If your project uses any third-party libraries or resources, acknowledge them here.
+## Team
+
+
+
 
