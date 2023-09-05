@@ -1,7 +1,8 @@
 
 # Autonomous Mobile Robot Simulation using Webots and the Physical task implementation of "Robot Design and Competition"
 
-Short description or project tagline.
+[Task Sheet](EN2532 20 Intake Task Description v1.2.pdf)
+
 
 ## Table of Contents
 
