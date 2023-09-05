@@ -14,12 +14,25 @@
 - [License](#license)
 
 ## Introduction
+• We designed a Physical mobile robot which has the ability to perform simple tasks such as line following wall following to Advanced task such as line maze solving
+• Simulation robot could line follow, segmented wall follow, dotted line follow, colour detect, obeject pick & place, climb through ramps and search, identify chess pieces positions on a board and perform a checkmate.
 
-Provide a brief introduction to your project. Explain its purpose and why it's valuable.
 
 ## Features
 
-List the main features of your project.
+To complete the quest the robot needs to have these major skills. 
+ Physical skills 
+I. Surface detection
+II. Color sensing
+III. Object lifting
+IV. Ramp Climbing
+
+Algorithmic skills 
+I. Line/Dotted line following
+II. Height/ Depth or distance calculation
+III. Proper path selection
+
+So our goal is to empower the robot with these skills efficiently, accurately and precisely in order to complete without failures. 
 
 ## Installation
 
