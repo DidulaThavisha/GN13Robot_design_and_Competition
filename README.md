@@ -1,5 +1,5 @@
 
-# Autonomous Mobile Robot Simulation using Webots and the Physical task implementation of "Robot Design and Competition"
+# Autonomous Mobile Robot Simulation using Webots and the Physical task implementation of "Robot Design and Competition".
 
 [Task Sheet](Task_Description.pdf)
 
