@@ -15,7 +15,7 @@
 
 ## Introduction
 • We designed a Physical mobile robot which has the ability to perform simple tasks such as line following wall following to Advanced task such as line maze solving  
-• Simulation robot could line follow, segmented wall follow, dotted line follow, colour detect, obeject pick & place, climb through ramps and search, identify chess pieces positions on a board and perform a checkmate.
+• Simulation robot could line follow, segmented wall follow, dotted line follow, colour detect, obeject pick & place, climb through ramps and search, identify chess pieces positions on a board and perform a checkmate
 
 
 ## Features
